@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125202952800",
+    "project_id": "simpleapp-bcca0",
+    "storage_bucket": "simpleapp-bcca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125202952800:android:dc8c62923bb599088b0905",
+        "android_client_info": {
+          "package_name": "com.elon.simpleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125202952800-2u9hqpingkivdfbjvtc9m4hiab66955s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHSYs7gBhrV0iTk6HB3-uPDn_XV84vV2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125202952800-2u9hqpingkivdfbjvtc9m4hiab66955s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
